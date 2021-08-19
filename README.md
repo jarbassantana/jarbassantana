@@ -1,6 +1,8 @@
 - 👋 Olá, eu sou Jarbas!
 - 🌱 Sou desenvolvedor front-end
 - 📚 Estudando Javascript
+- 🔁Typescript
+- 🔁React
 - 📫 Contate-me no email: contato@jarbassantanna.com.br
 - 🌐 Meu site: https://jarbassantanna.com.br/
 
