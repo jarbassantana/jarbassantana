@@ -1,5 +1,9 @@
 - 👋 Olá, eu sou Jarbas!
 - 🌱 Sou desenvolvedor front-end
+- ✔ HTML
+- ✔ CSS
+- ✔ SASS
+- ✔ GITHUB
 - 📚 Estudando Javascript
 - 🔁Typescript
 - 🔁React
