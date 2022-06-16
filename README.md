@@ -8,8 +8,8 @@
 - 📚 Estudando Javascript
 - 🔁Typescript
 - 🔁React
-- 📫 Contate-me no email: contato@jarbassantanna.com.br
-- 🌐 Meu site: https://jarbassantanna.com.br/
+<!-- - 📫 Contate-me no email: contato@jarbassantanna.com.br
+- 🌐 Meu site: https://jarbassantanna.com.br/ -->
 
 <div>
   <a href="https://github.com/jarbassantana">
